@@ -4,15 +4,15 @@ I am a passionate Full Stack Engineer with a keen interest in building efficient
 
 ## 📊 GitHub Stats for 2024
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValantineSuh&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valsuh45&show_icons=true&theme=radical)
 
 ## 🔝 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValantineSuh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsuh45&layout=compact&theme=radical)
 
 ## 🌟 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=ValantineSuh&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Valsuh45&color=blue)
 
 ## 🛠️ Skill Set
 
