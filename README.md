@@ -1,56 +1,58 @@
-# Hi there, I'm Valantine Suh 👋
+# Hi there, I'm Valantine Suh 👋  
 
-I am a passionate Full Stack Engineer with a keen interest in building efficient and scalable solutions. With a strong foundation in various programming languages and frameworks, I strive to create impactful software that can make a difference. I love collaborating on open-source projects and continuously learning new technologies.
+I am a passionate Full Stack Engineer with a strong focus on building efficient, scalable, and impactful solutions. My expertise spans multiple programming languages and frameworks, and I enjoy collaborating on open-source projects while continuously expanding my knowledge in emerging technologies.
 
-## 📊 GitHub Stats for 2024
+## 📊 GitHub Stats for 2025  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valsuh45&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valsuh45&show_icons=true&theme=radical)  
 
-## 🔝 Most Used Languages
+## 🔝 Most Used Languages  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsuh45&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valsuh45&layout=compact&theme=radical)  
 
-## 🌟 Profile Views
+## 🌟 Profile Views  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Valsuh45&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Valsuh45&color=blue)  
 
-## 🛠️ Skill Set
+## 🛠️ Skill Set  
 
-- **Programming Languages:**
-  - Python
-  - JavaScript
-  - Java
-  - C++
-  - HTML/CSS
+### **Programming Languages:**  
+- TypeScript  
+- JavaScript  
+- Python  
+- Java  
+- C++  
+- HTML/CSS  
 
-- **Frameworks and Libraries:**
-  - React
-  - Node.js
-  - Express.js
-  - Flask
+### **Frameworks and Libraries:**  
+- Next.js  
+- React  
+- Node.js  
+- Express.js  
+- Flask  
+- Prisma  
 
-- **Tools and Platforms:**
-  - Git
-  - Docker
-  - Kubernetes
+### **Tools and Platforms:**  
+- Git & GitHub  
+- Docker  
+- Kubernetes  
+- PostgreSQL  
+- tRPC  
 
-- **Other Skills:**
-  - Problem Solving
-  - Data Structures and Algorithms
-  - System Design
+### **Other Skills:**  
+- Problem Solving  
+- Data Structures and Algorithms  
+- System Design  
+- API Development  
 
-## 🌱 What I'm currently learning
+## 🌱 What I'm Currently Learning  
+- Blockchain and Smart Contracts  
+- Ansible & Automation  
+- Cloud Computing & DevOps  
 
-- Machine Learning and AI
-- Cloud Computing
-- DevOps Practices
+## 💬 Let's Connect!  
+- [LinkedIn](https://www.linkedin.com/in/fuh-valantine-4a05602a3)  
+- [Twitter](https://twitter.com/Valsuh45)  
+- [Facebook](https://www.facebook.com/profile.php?id=100082021437691)  
 
-## 💬 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/fuh-valantine-4a05602a3)
-- [Facebook](https://www.facebook.com/profile.php?id=100082021437691)
-
-Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on any projects or just chat about tech.
-
----
-
+Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or chat about tech. 🚀  
