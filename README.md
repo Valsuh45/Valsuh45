@@ -2,9 +2,11 @@
 
 I am a passionate Full Stack Engineer with a strong focus on building efficient, scalable, and impactful solutions. My expertise spans multiple programming languages and frameworks, and I enjoy collaborating on open-source projects while continuously expanding my knowledge in emerging technologies.
 
-## 📊 GitHub Stats for 2025  
+## 📊 GitHub Stats 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valsuh45&show_icons=true&theme=radical)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Valsuh45&theme=dark)](https://git.io/streak-stats)
 
 ## 🔝 Most Used Languages  
 
@@ -37,7 +39,8 @@ I am a passionate Full Stack Engineer with a strong focus on building efficient,
 - Docker  
 - Kubernetes  
 - PostgreSQL  
-- tRPC  
+- tRPC
+- Vercel 
 
 ### **Other Skills:**  
 - Problem Solving  
