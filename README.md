@@ -46,11 +46,11 @@ I am a passionate Full Stack Engineer with a strong focus on building efficient,
 - Problem Solving  
 - Data Structures and Algorithms  
 - System Design  
-- API Development  
+- API Development
+- Ansible & Automation  
 
 ## 🌱 What I'm Currently Learning  
 - Blockchain and Smart Contracts  
-- Ansible & Automation  
 - Cloud Computing & DevOps  
 
 ## 💬 Let's Connect!  
